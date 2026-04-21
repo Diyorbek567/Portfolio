@@ -1,4 +1,4 @@
-\# 📈 Retail Sales Forecasting Model
+\# Retail Sales Forecasting Model
 
 
 
