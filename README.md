@@ -23,7 +23,7 @@ Zavod sharoitida 35 ta stanok uchun ishlab chiqarish rejasini soniyalar ichida t
 
 ### [Executive Strategy Dashboard](./04-PowerBI-Dashboard)
 - **Tavsif:** Rahbariyat uchun interaktiv sotuvlar va operatsiyalar tahlili.
-- **Tech:** Power BI, DAX, Star Schema.
+- **Tech:** Power BI, DAX
 
 ---
 ## 📬 Aloqa
